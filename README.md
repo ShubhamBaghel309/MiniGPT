@@ -1,5 +1,4 @@
-# LLM From Scratch - Attention Mechanism Implementation
-
+# miniGPT - GPT2(124 Million parameters) model implementation from scratch
 This repository contains a comprehensive implementation of attention mechanisms for Large Language Models (LLMs), built from scratch using PyTorch. The project demonstrates the evolution from basic attention to multi-head attention and finally to the complete GPT architecture.
 
 ## 📁 Repository Structure
